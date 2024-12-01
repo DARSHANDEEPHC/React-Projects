@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    border: 2px solid brown;
+    background-color: yellowgreen;
+    color: rgb(212, 8, 8);
+}
+
+.logo{
+    width: 100px;   
+
+}
+.nav-items > ul{
+    display: flex;
+    list-style: none;
+    font-size: 17px;
+    
+}
+
+.nav-items > ul > li{
+    padding-right: 150px;
+}
+
+.nav-items > ul:hover {
+     
+        background-color: #ddd;
+        color: black;
+        
+      
+}
+
+.search{
+    margin-top: 10px;
+    
+}
+
+.res_card{
+    background-color: cadetblue;
+    border: 2px solid blue;
+    width: 100px;
+}

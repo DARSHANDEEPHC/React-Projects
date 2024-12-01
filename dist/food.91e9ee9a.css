@@ -1,0 +1,36 @@
+.header {
+  color: #d40808;
+  background-color: #9acd32;
+  border: 2px solid brown;
+  display: flex;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-items > ul {
+  font-size: 17px;
+  list-style: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding-right: 150px;
+}
+
+.nav-items > ul:hover {
+  color: #000;
+  background-color: #ddd;
+}
+
+.search {
+  margin-top: 10px;
+}
+
+.res_card {
+  background-color: #5f9ea0;
+  border: 2px solid #00f;
+  width: 100px;
+}
+/*# sourceMappingURL=food.91e9ee9a.css.map */

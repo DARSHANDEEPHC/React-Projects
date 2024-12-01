@@ -1,0 +1,35 @@
+{
+  "name": "react-projects",
+  "version": "1.0.0",
+  "description": "Food delivery :This is First Project using React by Darshan",
+  "scripts": {
+    "start": "parcel food.html",
+    "build": "parcel build food.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DARSHANDEEPHC/React-Projects.git"
+  },
+  "keywords": [
+    "Food",
+    "App",
+    "Darshan",
+    "React",
+    "JSX"
+  ],
+  "author": "Darshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DARSHANDEEPHC/React-Projects/issues"
+  },
+  "homepage": "https://github.com/DARSHANDEEPHC/React-Projects#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
